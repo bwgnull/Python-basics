@@ -1,5 +1,4 @@
 import requests 
-import sys 
 
 sub_list = open("wordlist.txt").read() 
 directories = sub_list.splitlines()
